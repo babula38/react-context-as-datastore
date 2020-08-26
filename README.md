@@ -1,1 +1,1 @@
-### This project is to see how we can use react context as simple global data store.
+### This project is to see how I can use react context as simple global data store.
